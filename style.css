@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}html,body{
+    width: 100%;
+    height: 100%;
+ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRotVL0sx_Fm_QgeH0ueyVDtndu5UfNOFfI_DVre-YpZOqkJXO3ikAUPF2u&s=10);
+    background-position: center;
+    background-size: cover;
+}
+#main{
+     width: 100%;
+    height: 100%;
+ background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRotVL0sx_Fm_QgeH0ueyVDtndu5UfNOFfI_DVre-YpZOqkJXO3ikAUPF2u&s=10);
+    background-position: center;
+    background-size: cover;
+}
+}
